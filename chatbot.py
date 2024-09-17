@@ -16,7 +16,7 @@ import os
 import pytesseract
 from io import BytesIO
 
-co = cohere.Client(api_key='xmHg8viTBgZ6vnb7YIxMe5VFouuFCiDM4MkE3x2v')
+co = cohere.Client(api_key='002erTCoOQSse0A7PO6nKWGfkHOc8W7G1cr7u4Y2')
 
 # Define process_image function outside of pdf_to_text
 def process_image(image):
