@@ -6,5 +6,4 @@ pytesseract
 pdf2image
 graphviz
 spire.pdf
-spire.pdf.common
 PIL
