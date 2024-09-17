@@ -1,14 +1,10 @@
 streamlit
 cohere
 numpy
-warnings
 annoy
 pytesseract
 pdf2image
-multiprocessing
 graphviz
 spire.pdf
 spire.pdf.common
 PIL
-os
-io
